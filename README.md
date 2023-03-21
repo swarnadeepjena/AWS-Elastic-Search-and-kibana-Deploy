@@ -83,9 +83,10 @@ nohup ./bin/kibana &
 
 
 
+#test
+http://3.80.239.45:9200/_plugin/bigdesk/#nodes
 
-
-
+http://3.80.239.45:5601/
 
 
 
